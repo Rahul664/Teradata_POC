@@ -1,0 +1,1 @@
+Teradata FS Analytics Competency
